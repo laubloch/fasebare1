@@ -175,12 +175,14 @@
 
    END OF TERMS AND CONDITIONS
 
-  This project is named : fasebare
+   APPENDIX
 
-  The aim of these programs is:
-  FASTA Sequences Bank Read and Needleman-Wunsch Align (fasebare)
+   This project is named : fasebare
 
-  Copyright 2021 Laurent Bloch lb@laurentbloch.org
+   The aim of these programs is:
+   FASTA Sequences Bank Read and Needleman-Wunsch Align (fasebare)
+
+   Copyright 2021 Laurent Bloch lb@laurentbloch.org
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
